@@ -74,4 +74,5 @@ Before you proceed with the installation and running of the project, ensure you 
 ## Developed By
 
 **[Manu López](https://linktr.ee/manulopeza)**  
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/manuellopezaguilar/)**
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/manulopeza/)**
+
